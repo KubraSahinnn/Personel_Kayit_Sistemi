@@ -1,0 +1,11 @@
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\bin\Debug\Peersonel_Kayit.exe.config
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\bin\Debug\Peersonel_Kayit.exe
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\bin\Debug\Peersonel_Kayit.pdb
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\obj\Debug\Peersonel_Kayit.csproj.AssemblyReference.cache
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\obj\Debug\Peersonel_Kayit.Form1.resources
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\obj\Debug\Peersonel_Kayit.Properties.Resources.resources
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\obj\Debug\Peersonel_Kayit.csproj.GenerateResource.cache
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\obj\Debug\Peersonel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\obj\Debug\Peersonel_Kayit.exe
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\obj\Debug\Peersonel_Kayit.pdb
+C:\Users\OmerAzra\source\repos\Peersonel_Kayit\Peersonel_Kayit\obj\Debug\Peersonel_Kayit.Frmİstatistik.resources
